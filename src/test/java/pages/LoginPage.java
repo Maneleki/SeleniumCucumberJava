@@ -4,10 +4,9 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import utility.BrowserDriver;
 
-public class LoginPage {
-
-    public static WebDriver driver;
+public class LoginPage extends BrowserDriver {
     public static String username_text_id = "usr";
     public static String password_text_id = "pwd";
     public static String login_btn_xpath = "//*[@id=\"second_form\"]/input";
