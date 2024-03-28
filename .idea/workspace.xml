@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fad6945d-5f9d-4d04-9ad2-fd362d71397d" name="Changes" comment="New repository to learn Selenium and Cucumber with Java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/OnlineProductsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinition/OnlineProductsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinition/OnlineProductsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711492245870</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New repository to learn Selenium and Cucumber with Java">
+      <option name="closed" value="true" />
+      <created>1711573739696</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711573739696</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
